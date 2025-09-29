@@ -1,12 +1,3 @@
-Built and deployed a model using Python, scikit-learn, Flask, and Postman.
-
-Covered everything from EDA to API deployment basics.
-
-🔗 Check out the project on GitHub: https://github.com/humaraffath/FlaskAPITitanicModel.git
-
-#MachineLearning #Python #FlaskAPI #GitHub #DataScience
-
-Add class comment…
 
 
 # Titanic Survival Prediction - Machine Learning Project
